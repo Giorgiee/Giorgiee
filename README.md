@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Giorgiee
-- 🌱 I’m currently learning Full stack development.
+- 👋 Hi, I’m Giorgi
+- 🌱 I’m currently learning Full stack development. (React), (Django)
 - 📫 How to reach me [...](https://www.facebook.com/Georgggggggg/)
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: i wasn't always interested in programming.
